@@ -1,62 +1,67 @@
-## Hi there 👋
-
-<!--
-**yigitbalbasi/yigitbalbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- Başlık & Hoş Geldiniz Mesajı -->
-<h1 align="center">Merhaba, ben Yiğit Balbaşı! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<!-- Title & Welcome -->
+<h1 align="center">
+  Hello, I'm Yiğit Balbaşı! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" alt="Waving Hand"/>
+</h1>
 <p align="center">
-  Benim GitHub profilime hoş geldiniz, kod, proje ve yeniliklerimi burada paylaşıyorum.
+  Welcome to my GitHub profile! 🚀 I'm passionate about creating intuitive, impactful designs and code. Dive in and explore my projects, ideas, and innovations!
 </p>
 
-<!-- Sosyal Medya Butonları (isteğe bağlı) -->
+<!-- Social Media Icons (Customize as needed) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yigit-balbasi/"><img src="https://thelinkedinman.com/wp-content/uploads/2016/02/View-my-LinkedIn-profile-image-3.png"></a>
+  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-@your_twitter-blue?logo=twitter" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-### Dinamik Animasyonlu Karşılama Bölümü
-
-Kullanıcılarınızın dikkatini çekmek için, animasyonlu görseller ya da SVG temelli animasyonlar ekleyebilirsiniz. Örneğin, aşağıdaki GIF görseli, profilinizin açılışında hoş bir karşılama efektine sahip.
-
+<!-- Animated Welcome GIF Section -->
 <p align="center">
-  <img src="https://github.com/yigitbalbasi/yigitbalbasi/blob/main/assets/welcome_animation.gif?raw=true" alt="Welcome Animation">
-</p>
-<p align="center">
-  <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAd/bongo-cat-typing.gif" alt="Welcome Animation" width="300" >
+  <!-- Your provided GIF is used here; its size is managed via responsive styling -->
+  <img src="https://github.com/yigitbalbasi/yigitbalbasi/blob/main/assets/welcome_animation.gif?raw=true" alt="Welcome Animation" style="max-width: 100%; height: auto;"/>
 </p>
 
+---
+
+## About Me ⭐
+
+I thrive at the crossroads of technology, design, psychology, and sociology. By integrating aesthetics with functionality, I create products that feel natural, engaging, and impactful. My toolbelt includes **Python**, **JavaScript**, **React**, and a keen eye for **UI/UX design**. I believe that great design not only solves problems but also inspires and connects people. 💡😊
+
+---
+
+## Technical Skills & Tools 🛠️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git" alt="Technical Skills"/>
 </p>
 
+---
 
-<!-- İstatistik Kartı -->
+## GitHub Stats 📊
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yigitbalbasi&show_icons=true&theme=radical" alt="Yiğit Balbaş GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yigitbalbasi&show_icons=true&theme=radical" alt="Yiğit Balbaş GitHub Stats"/>
 </p>
-
-<!-- Diller Kartı -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitbalbasi&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitbalbasi&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
 
-## Hakkımda
+## Latest Projects 🚀
 
-Merak ettiğiniz gibi, ben [teknoloji/hobiler/ilgi alanlarınızı kısa şekilde belirtin]. Öğrenmeyi seven, yeniliklere açık bir yazılım geliştiricisiyim. Projelerimde genellikle **Python**, **JavaScript** ve **React** gibi teknolojiler kullanıyorum.
+<p align="center">
+  <a href="https://github.com/yigitbalbasi/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitbalbasi&repo=project1&theme=radical" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/yigitbalbasi/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitbalbasi&repo=project2&theme=radical" alt="Project 2"/>
+  </a>
+</p>
+
+---
+
+<!-- Extra Animated Touch -->
+<p align="center">
+  <!-- Additional cute GIF for extra charm; customize this link if needed -->
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Fun Animation" style="max-width: 120px; height: auto;"/>
+</p>
