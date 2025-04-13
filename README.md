@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- Sosyal Medya Butonları (isteğe bağlı) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yigit-balbasi/"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/yigit-balbasi/"><img src="https://thelinkedinman.com/wp-content/uploads/2016/02/View-my-LinkedIn-profile-image-3.png"></a>
 </p>
 
 ---
@@ -37,12 +37,26 @@ Kullanıcılarınızın dikkatini çekmek için, animasyonlu görseller ya da SV
   <img src="https://github.com/yigitbalbasi/yigitbalbasi/blob/main/assets/welcome_animation.gif?raw=true" alt="Welcome Animation">
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAd/bongo-cat-typing.gif" alt="Welcome Animation">
+  <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAd/bongo-cat-typing.gif" alt="Welcome Animation" width="300" >
 </p>
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git" />
+</p>
 
-### Hakkımda
+
+<!-- İstatistik Kartı -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yigitbalbasi&show_icons=true&theme=radical" alt="Yiğit Balbaş GitHub Stats">
+</p>
+
+<!-- Diller Kartı -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitbalbasi&layout=compact&theme=radical" alt="Top Langs">
+</p>
+
+
 ## Hakkımda
 
 Merak ettiğiniz gibi, ben [teknoloji/hobiler/ilgi alanlarınızı kısa şekilde belirtin]. Öğrenmeyi seven, yeniliklere açık bir yazılım geliştiricisiyim. Projelerimde genellikle **Python**, **JavaScript** ve **React** gibi teknolojiler kullanıyorum.
