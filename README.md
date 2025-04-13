@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/yigit-balbasi/"><img src="https://camo.githubusercontent.com/596af36a2ea81adc93fb60e12bf216f4f01a6b4b7dfb27a275f047f661d2e313/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f74797065732f33322f7371756172652d6c696e6b6564696e2d313032342e706e67" alt="LinkedIn" width="50"/></a>
 </p>
 
-
 <!-- Animated Welcome GIF Section -->
 <p align="center">
   <!-- Your provided GIF is used here; its size is managed via responsive styling -->
@@ -31,30 +30,19 @@ I specialize in building engaging digital experiences using **Java**, **Kotlin**
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 15px;">
   <!-- Sol Taraf: GIF -->
-  <p style="margin: 0; display: flex; align-items: center; justify-content: center;">
+<p align="center">
     <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAd/bongo-cat-typing.gif" 
          alt="Welcome Animation" 
-         style="height: 100px; object-fit: contain;"/>
-  </p>
-
-  <!-- Sağ Taraf: Teknik Beceri İkonları -->
-  <p style="margin: 0; display: flex; align-items: center; justify-content: center;">
-    <div style="display: grid; 
-                grid-template-columns: repeat(3, 1fr); 
-                gap: 8px; 
-                align-items: center;
-                justify-items: center;">
+         style="height: 200px; object-fit: contain;"/><br><br>
       <img src="https://skillicons.dev/icons?i=java" alt="Java" style="height:40px;"/>
       <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" style="height:40px;"/>
       <img src="https://skillicons.dev/icons?i=python" alt="Python" style="height:40px;"/>
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="height:40px;"/>
       <img src="https://skillicons.dev/icons?i=react" alt="React" style="height:40px;"/>
       <img src="https://skillicons.dev/icons?i=angular" alt="Angular" style="height:40px;"/>
-    </div>
   </p>
-</div>
+
 
 
 
